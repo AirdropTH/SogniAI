@@ -1,4 +1,4 @@
-# Layer Edge Auto Bot
+# Sogni AI Auto Bot
 
 ➡️ Link : https://app.sogni.ai/creator
 
