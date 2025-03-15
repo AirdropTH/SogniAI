@@ -3,7 +3,7 @@
 ➡️ Link : https://app.sogni.ai/creator
 
 - Create Account
-- Submit Reff Code sonpx get 250 tSOGNI
+- Submit Reff Code **sonpx** get 250 tSOGNI
 - Verify email
 - Join discord to get Testnet Role
 - Generate Images On Web
