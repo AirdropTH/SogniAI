@@ -50,4 +50,4 @@ MIT License
 
 ## Disclaimer
 
-This bot is for educational purposes only. Use at your own risk and ensure compliance with NodeGo's terms of service.
+This bot is for educational purposes only. Use at your own risk and ensure compliance with SogniAI's terms of service.
