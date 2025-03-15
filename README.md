@@ -11,11 +11,14 @@
 
 ## Features
 
-- **Auto Claim Points every Daily**
+- Multiple wallet support
+- Proxy support (HTTP/HTTPS/SOCKS)
+- Auto Claim Points every Daily
 
 ## Prerequisites
 
-- Node.js installed on your machine
+- Node.js (v16 or higher)
+- npm (Node Package Manager)
 
 
 ## Installation
@@ -30,7 +33,21 @@
     ```sh
     npm install
     ```
-3. Fill Data:  F12 - Network to find token
+
+## 📝 Configuration
+
+1. (Optional) Create a `proxies.txt` file for proxy support:
+    ```
+    http://user:pass@host:port
+    socks5://user:pass@host:port
+    ```
+
+2. Create a `token.txt` file for multiple wallets:
+    ```
+    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+    ```
+    F12 - Network to find token
     ![Capture](https://github.com/user-attachments/assets/0d26b747-e121-4468-9383-9401cdcee4de)
     ```sh
     nano token.txt
