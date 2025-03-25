@@ -25,7 +25,7 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/sonpx37/SogniAI.git
+    git clone https://github.com/AirdropTH/SogniAI.git
     cd SogniAI
     ```
 
