@@ -36,7 +36,7 @@
 
 ## 📝 Configuration
 
-1. (Optional) Create a `proxies.txt` file for proxy support:
+1. (Optional) Create a `proxy.txt` file for proxy support:
     ```
     http://user:pass@host:port
     socks5://user:pass@host:port
